@@ -1,4 +1,4 @@
-# pbz-atlas-tools
+# PBZ-ResourceAnalysis
 
 从 UE5 IoStore 容器里读取 DataTable 与 UI 贴图，生成「图片 + ID」图鉴，并对不同版本做数据 diff 的工具集。
 
