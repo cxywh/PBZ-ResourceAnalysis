@@ -1,0 +1,25 @@
+# 密钥与本地配置
+key.txt
+*.key
+.env
+
+# 产物与导出物（含游戏数据，禁止入库）
+out/
+export/
+extracted/
+*.uasset
+*.ubulk
+*.ucas
+*.utoc
+*.pak
+*.png
+*.zip
+
+# Oodle 运行时
+oo2core_*.dll
+*.dll
+
+# Python
+__pycache__/
+*.pyc
+.venv/
